@@ -2,9 +2,7 @@ import json
 import re
 
 
-def process(template, data):
-  with open(template, 'r') as template:
-    template_content = template.read()
+def process(template_content, data):
 
   # Regular expression to find IDs like %ID%
   IDs = re.findall(r'%(\w+)%', template_content)
