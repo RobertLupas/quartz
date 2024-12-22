@@ -1,8 +1,9 @@
 # Quartz (old prototype)
-An old prototype version of the Quartz template engine, made in Python.
 
-Quartz is a templating engine built in Python, that generates HTML files as output.
+An old prototype of an HTML templating engine, made in Python. It's just an experiment, not a project I'll be working on.
 
-⚠️This project is extremely unpolished, and may not work as expected, and I won't support it.⚠️
+***
 
-The new version of Quartz, which I'll now be working on: https://github.com/RobertLupas/quartz (link isn't working yet, as I haven't published the repo).
+Quartz is a web templating engine built in Python, that generates HTML files as output.
+
+⚠️ This project is extremely unpolished, I worked on it only a few hours. I don't even recommend forking, if you want to work on something like this, do it from scratch :)
