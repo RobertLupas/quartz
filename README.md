@@ -40,4 +40,9 @@ Example:
   ```
 
 - Step 2: Run `main.py`
+
+  ```bash
+  python main.py
+  ```
+
 - The output will be provided in `output.html`
